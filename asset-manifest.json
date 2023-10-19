@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae976db6.css",
+    "main.js": "/static/js/main.37b830dc.js",
+    "static/media/ME2.JPG": "/static/media/ME2.ddb736d714b416de6fce.JPG",
+    "static/media/extra1.JPG": "/static/media/extra1.389c65972395847fa6d4.JPG",
+    "static/media/ME1.png": "/static/media/ME1.3ea8de9c953f363e38d2.png",
+    "static/media/AaryaReddyCV.pdf": "/static/media/AaryaReddyCV.a7e98650e787108cb884.pdf",
+    "static/media/port1.jpeg": "/static/media/port1.351b17dde78835ae5e3d.jpeg",
+    "index.html": "/index.html",
+    "main.ae976db6.css.map": "/static/css/main.ae976db6.css.map",
+    "main.37b830dc.js.map": "/static/js/main.37b830dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae976db6.css",
+    "static/js/main.37b830dc.js"
+  ]
+}
